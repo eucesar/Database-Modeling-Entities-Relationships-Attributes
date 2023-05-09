@@ -8,7 +8,6 @@
 
 > Result
 <img src="./resultado.jpg" alt="resultado">
-<br>
 
 ## Download
 
