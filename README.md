@@ -4,11 +4,11 @@
 <br>
 
 > Purpose of the course :
-<img src="./1° Curso/imagem-dasafio.png" alt="objetivo-do-curso">
+<img src="./1° Curso/imagem-dasafio.png" alt="objetivo-do-curso" width="50%">
 <br>
 
 > Result :
-<img src="./1° Curso/resultado.jpg" alt="resultado">
+<img src="./1° Curso/resultado.jpg" alt="resultado" width="50%">
 
 ## Download
 
