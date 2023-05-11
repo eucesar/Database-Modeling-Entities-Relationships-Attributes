@@ -1,6 +1,7 @@
 <h1 align="center">Welcome to my Repositories 🤝</h1>
 <p>
-  <img align="center" alt="Cesar-CSS" height="50" width="50" src="./brmodel.png">
+  <img align="center" alt="BrModel" height="50" width="50" src="./brmodel.png">
+  <br>
 </p>
 
 > 🌱👨‍💻 - Identified a logical model and a physical data model, differentiated a high-level model from a low-level model, applied data modeling techniques, differentiated the Entity and Relationship Model (MER) from the Entity and Relationship Diagram (ERD) . Finally, I built a database model in brModelo.
